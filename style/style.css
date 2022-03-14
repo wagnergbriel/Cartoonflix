@@ -55,7 +55,7 @@ header .logo i{
 /*Tag Main*/
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("/img/dragon_ball_heroes.jpg");
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("img/dragon_ball_heroes.jpg");
     height: 590px;
     background-size: cover;
     display: flex;
